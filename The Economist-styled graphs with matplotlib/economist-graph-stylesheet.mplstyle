@@ -1,0 +1,43 @@
+# COLORS
+# background #cedee7, 
+# forecast (bg-blue-dark) #bad1dc
+# red #ea212d, 
+# line1 (blue),  #178ebc
+# line2 (blue2) #074b63
+# line3 (brown) #712415, 
+# line4 (gray) #a7a9ab
+# line5 (green) #148882
+
+savefig.bbox        	: standard
+
+font.family		: sans-serif
+#font.sans-serif		: Gill Sans
+font.size		: 11
+text.color		: black
+	
+figure.facecolor	: cedee7
+
+axes.facecolor		: cedee7
+#axes.titlelocation  	: left
+axes.grid           	: True
+axes.grid.axis      	: y
+#axes.grid.which     	: major
+axes.prop_cycle    	: cycler('color', ['178ebc', '074b63', '712415', 'a7a9ab', '148882'])
+axes.xmargin 		: 0
+
+axes.spines.left	: True
+axes.spines.bottom	: True
+
+#figure.titlesize	: 16
+#figure.title.ha		: center # Does not work#
+
+
+#axes.titlesize 		: 10
+#axes.labelsize 		: 10
+#axes.labelweight		: bold
+#axes.labelstyle		: italic
+
+#lines.linewidth 	: 1
+#lines.markersize 	: 10
+#xtick.labelsize 	: 10
+#ytick.labelsize 	: 10
