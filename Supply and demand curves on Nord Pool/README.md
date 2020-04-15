@@ -29,6 +29,10 @@ Results
 
 ![A week with low prices in June](animations/3-low-price-week-in-june.gif)
 
+### Easter Monday during the corona crisis
+
+![6-2020-04-13-0800](animations/6-2020-04-13-0800.png)
+
 ### Full history 2014–2019 on YouTube
 
 [![YouTube video](http://img.youtube.com/vi/YaDiZ9z4KsY/0.jpg)](https://www.youtube.com/watch?v=YaDiZ9z4KsY&t=691s)
